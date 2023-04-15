@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MMIL Task unit convertor</string>
+    <string name="km">Km</string>
+    <string name="kg">Kg</string>
+    <string name="l">L</string>
+    <string name="unitConvertor">Unit Convertor</string>
+    <string name="submit">SUBMIT</string>
+    <string name="convertedUnit">Converted Units</string>
+</resources>
